@@ -13,7 +13,7 @@ class MessageController extends Controller
     private $breadcrumbs;
 
     /**
-     * Constructor of the class
+     * Constructor of the class!
      */
     public function __construct() {
         // Breadcrumb
