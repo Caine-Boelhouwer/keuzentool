@@ -36,7 +36,7 @@
               </tr>
             </thead>
             <tbody>
-              @foreach ($messages as $message)
+              @foreach ($messages as $message) 
                 <tr data-status="{{ $message->status }}">
                   <td><a href="/berichten/{{ $message->id }}">{{ $message->name or '-' }}</a></td>
                   <td>{{ $message->email or '-' }}</td>
