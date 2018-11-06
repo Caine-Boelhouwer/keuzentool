@@ -2,7 +2,7 @@ $(document).foundation();
 
 $(document).on('ready', init());
 
-function init() {
+function init() { 
   /***
    * General
    */
