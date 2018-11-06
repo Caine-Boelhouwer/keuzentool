@@ -170,13 +170,6 @@
 		"oAP": "/app/Http/Controllers/InsulationController.php",
 		"oF": 0
 		},
-	"/app/Http/Controllers/MessageController.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/app/Http/Controllers/MessageController.php",
-		"oF": 0
-		},
 	"/app/Http/Controllers/ProfileController.php": {
 		"cB": 0,
 		"ft": 8192,
