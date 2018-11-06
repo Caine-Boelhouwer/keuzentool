@@ -1,0 +1,2 @@
+id,location_id,location_text,status,name,max_temp,min_temp,insulation_mat,insulation_spec,finish_mat,finish_spec,chapter,description,explanation,image
+null,1,test,1,test,100,50,test,test,test,test,test,test,test,test,test
