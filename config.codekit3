@@ -6176,16 +6176,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/resources/assets/js/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/public/js/app.min.js",
-		"oF": 2,
-		"sC": 0,
-		"tS": 1
-		},
 	"/resources/assets/sass/_main.scss": {
 		"aP": 0,
 		"bl": 0,
