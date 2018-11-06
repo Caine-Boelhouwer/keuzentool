@@ -5,7 +5,7 @@ $(document).on('ready', init());
 function init() { 
   /***
    * General
-   */
+   */ 
   if ($('#session_toast').length != 0) {
     activateToast('#session_toast', 'active', null);
   }
